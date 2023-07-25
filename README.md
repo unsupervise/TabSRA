@@ -107,7 +107,7 @@ TabSRA package with sklearn interface
 This work has been done in collaboration between BPCE Group, Laboratoire d'Informatique de Paris Nord (LIPN UMR 7030),  DAVID Lab UVSQ-Université Paris Saclay and was supported by the program Convention
 Industrielle de Formation par la Recherche (CIFRE) of the Association Nationale de la Recherche et de la Technologie (ANRT).
 ### Citations
-  If you find the code useful, please cite:
+  If you find the code useful, please cite it by using the following BibTeX entry:
   ```
 @inproceedings{kodjoEs23,
  author       = {Kodjo Mawuena Amekoe and
@@ -122,7 +122,7 @@ Industrielle de Formation par la Recherche (CIFRE) of the Association Nationale 
  }
   ```
   ```
-@inproceedings{kodjoEs23,
+@inproceedings{XKDD23,
  author       = {Kodjo Mawuena Amekoe and
                   Hanene Azzag and
                     Mustapha Lebbah and
